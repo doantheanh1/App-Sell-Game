@@ -1,10 +1,11 @@
 # finall
 
-A new Flutter project.
-
+Welcome to my flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+You need to connect to firebase to use the app
+
 
 A few resources to get you started if this is your first Flutter project:
 
